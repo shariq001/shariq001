@@ -22,7 +22,7 @@ On this profile, you can expect to see:
 ## How to Reach Me
 I'm always open to feedback, advice, and collaboration opportunities. Feel free to reach out to me through:
 - Instagram: @mu_shariq1
-- Email: muhammadshariqfazal@gmail.com
+- Email: shariqfazal123@gmail.com
 
 Thank you for visiting my profile! I look forward to sharing my journey with you and learning from this amazing community.
 
