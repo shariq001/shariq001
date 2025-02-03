@@ -22,3 +22,4 @@ I would love to connect! Feel free to check out my profiles and reach out to me:
 - **Email:** shariqfazal123@gmail.com
 
 Looking forward to collaborating with You!
+https://linktr.ee/muhammad_shariq
