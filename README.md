@@ -1,25 +1,48 @@
-Hi there! I’m Muhammad Shariq, a passionate web designer and front-end developer. My focus is on creating modern, responsive, and user-friendly websites that stand out. I have expertise in leveraging technologies like Next.js, TypeScript, Tailwind CSS, and ShadCN to deliver sleek and interactive web solutions, ensuring optimal performance and a great user experience.
+# Muhammad Shariq - Software Engineer & Developer
 
-I’m committed to continuous improvement in my skills and keeping up with the latest web development trends. Whether it’s crafting clean UI designs, enhancing performance, or developing dynamic web applications, I always aim for high-quality results.
+Welcome to my GitHub profile! I'm Muhammad Shariq, a passionate Front-end Developer, constantly learning and growing in the field of technology. Feel free to explore my repositories and check out my work!
 
-### Skills
-- **Next.js**
-- **TypeScript**
-- **Tailwind CSS**
-- **ShadCN**
-- **HTML5**
-- **CSS3** (including Flexbox and Grid)
-- **UI/UX Design**
-- **Responsive Web Design**
-- **Version Control with Git & GitHub**
+---
 
-### Projects
-You can explore my web projects, including portfolios, UI designs, and front-end applications, on my Vercel (https://vercel.com/muhammad-shariqs-projects-e53e85ce).
-### Let's Connect
-I would love to connect! Feel free to check out my profiles and reach out to me:
-- **LinkedIn:** https://www.linkedin.com/in/muhammad---shariq
-- **Quora** https://www.quora.com/profile/Muhammad-Shariq-163
-- **Email:** shariqfazal123@gmail.com
+## **Portfolio:**
+Check out my Personal Portfolio to learn more about my projects and achievements.
 
-Looking forward to collaborating with You!
-https://linktr.ee/muhammad_shariq
+[Visit my portfolio](https://my-personal-portfolio-eight-delta.vercel.app/)
+
+---
+
+## **Connect with Me:**
+
+- **LinkedIn:** [Muhammad Shariq](https://www.linkedin.com/in/muhammad---shariq)
+- **Instagram:** [@shariq.dev](https://www.instagram.com/mu_shariq1/)
+- **Quora:** [Muhammad Shariq on Quora](https://www.quora.com/profile/Muhammad-Shariq-163)
+
+---
+
+## **Other Contact Information:**
+
+- **Email:** [your-email@example.com](mailto:shariqfazal123@gmail.com)
+
+---
+
+## ✨ **My Work:**
+Here are some of the technologies and areas I've worked with:
+
+- Front-end Development (HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind CSS, API)
+- Responsive Web Design
+- JavaScript & TypeScript Projects
+
+---
+
+## ❤️ **Why I'm Passionate About Tech:**
+
+I believe in the transformative power of technology to improve lives and solve problems. Whether it's building scalable web applications or exploring the latest advancements in AI, I’m always eager to dive into new challenges. Every project I take on is an opportunity to learn and grow, and I look forward to contributing to impactful work.
+
+---
+
+## 🌟 **Let's Build Something Amazing!**
+If you have any questions or want to collaborate on a project, feel free to reach out! I'm always open to new opportunities and connections.
+
+---
+
+Thank you for visiting my profile! Keep coding and stay curious!
