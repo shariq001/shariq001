@@ -14,14 +14,14 @@ Check out my Personal Portfolio to learn more about my projects and achievements
 ## **Connect with Me:**
 
 - **LinkedIn:** [Muhammad Shariq](https://www.linkedin.com/in/muhammad---shariq)
-- **Instagram:** [@shariq.dev](https://www.instagram.com/mu_shariq1/)
-- **Quora:** [Muhammad Shariq on Quora](https://www.quora.com/profile/Muhammad-Shariq-163)
+- **Instagram:** [@mu_shariq1](https://www.instagram.com/mu_shariq1/)
+- **Quora:** [Muhammad Shariq](https://www.quora.com/profile/Muhammad-Shariq-163)
 
 ---
 
 ## **Other Contact Information:**
 
-- **Email:** [your-email@example.com](mailto:shariqfazal123@gmail.com)
+- **Email:** [Muhammad Shariq](mailto:shariqfazal123@gmail.com)
 
 ---
 
