@@ -15,7 +15,6 @@ Check out my Personal Portfolio to learn more about my projects and achievements
 
 - **LinkedIn:** [Muhammad Shariq](https://www.linkedin.com/in/muhammad---shariq)
 - **Instagram:** [@mu_shariq1](https://www.instagram.com/mu_shariq1/)
-- **Quora:** [Muhammad Shariq](https://www.quora.com/profile/Muhammad-Shariq-163)
 
 ---
 
