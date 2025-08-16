@@ -1,35 +1,37 @@
 # Muhammad Shariq - Front-end Developer & Web Designer
 
-Welcome to my GitHub profile! I'm Muhammad Shariq, a passionate Front-end Developer, constantly learning and growing in the field of technology. Feel free to explore my repositories and check out my work!
+Welcome to my GitHub profile! ***I'm Muhammad Shariq***, a passionate ***Front-end Developer***, constantly learning and growing in the field of technology. Feel free to explore my repositories and check out my work!
 
 ---
 
 ## **Portfolio:**
 Check out my Personal Portfolio to learn more about my projects and achievements.
 
-[Visit my portfolio](https://my-personal-portfolio-eight-delta.vercel.app/)
+> [Visit my portfolio](https://my-personal-portfolio-eight-delta.vercel.app/)
 
 ---
 
 ## **Connect with Me:**
 
-- **LinkedIn:** [Muhammad Shariq](https://www.linkedin.com/in/muhammad---shariq)
-- **Instagram:** [@mu_shariq1](https://www.instagram.com/mu_shariq1/)
+> **LinkedIn:** [Muhammad Shariq](https://www.linkedin.com/in/muhammad---shariq)
+> **Instagram:** [@mu_shariq1](https://www.instagram.com/mu_shariq1/)
 
 ---
 
 ## **Other Contact Information:**
 
-- **Email:** [Muhammad Shariq](mailto:shariqfazal123@gmail.com)
+> **Email:** [Muhammad Shariq](mailto:shariqfazal123@gmail.com)
 
 ---
 
 ## ✨ **My Work:**
 Here are some of the technologies and areas I've worked with:
 
-- Front-end Development (HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind CSS, API)
-- Responsive Web Design
-- JavaScript & TypeScript Projects
+> Front-end Development (HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind CSS, API)
+> 
+> Responsive Web Design
+> 
+> JavaScript & TypeScript Projects
 
 ---
 
