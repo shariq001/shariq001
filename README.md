@@ -1,6 +1,6 @@
 # Muhammad Shariq - Front-end Developer & Web Designer
 
-Welcome to my GitHub profile! ***I'm Muhammad Shariq***, a passionate ***Front-end Developer***, constantly learning and growing in the field of technology. Feel free to explore my repositories and check out my work!
+`Welcome to my GitHub profile! ***I'm Muhammad Shariq***, a passionate ***Front-end Developer***, constantly learning and growing in the field of technology. Feel free to explore my repositories and check out my work!`
 
 ---
 
