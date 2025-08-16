@@ -46,8 +46,4 @@ If you have any questions or want to collaborate on a project, feel free to reac
 
 ---
 
-Thank you for visiting my profile! Keep coding and stay curious!
-
-  <html>
-    <p>Hello from Muhammad Shariq</p>
-
+`Thank you for visiting my profile! Keep coding and stay curious!`
