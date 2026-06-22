@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><b>🌌 Muhammad Shariq</b></h1>
+<h1 align="center"><b>Muhammad Shariq</b></h1>
 <h3 align="center"><b>Bridging the gap between Responsive Frontends & Autonomous AI Pipelines</b></h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+Engineer;Agentic+Workflow+Architect" alt="Typing SVG" /></a>
@@ -14,7 +14,7 @@
 
 <br/><hr/><br/>
 
-<h2 align="center"><b>🚀 About Me</b></h2>
+<h2 align="center"><b>About Me</b></h2>
 
 **Computer Science student at HITMS** | **Innova Tech Alum**
 
@@ -24,23 +24,26 @@ I specialize in building intelligent web experiences. By combining **Agentic Wor
 
 <br/><hr/><br/>
 
-<h2 align="center"><b>🛠️ Core Tech Stack & Arsenal</b></h2>
+<h2 align="center"><b>Core Tech Stack & Arsenal</b></h2>
 
 <div align="center">
 
-<h3><b>🎨 Frontend Engineering</b></h3>
+<h3><b>Frontend Engineering</b></h3>
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-<h3><b>🤖 AI, Backend & Pipelines</b></h3>
+<h3><b>AI, Backend & Pipelines</b></h3>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-00599C?style=flat-square&logo=openai&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 ![APIs](https://img.shields.io/badge/LinkedIn/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
 
-<h3><b>⚙️ Methodology & Tooling</b></h3>
+<h3><b>Methodology & Tooling</b></h3>
+
 ![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Dev-8A2BE2?style=flat-square&logo=readthedocs&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![SpecKit Plus](https://img.shields.io/badge/SpecKit_Plus-4CAF50?style=flat-square&logo=rocket&logoColor=white)
@@ -49,18 +52,18 @@ I specialize in building intelligent web experiences. By combining **Agentic Wor
 
 <br/><hr/><br/>
 
-<h2 align="center"><b>💻 Featured Architectures</b></h2>
+<h2 align="center"><b>Featured Architectures</b></h2>
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **🌟 Premium Personal Portfolio** | A world-class, heavily SEO-optimized portfolio featuring dynamic glassmorphism and 100% responsiveness down to 320px. | *Next.js 15, Tailwind v4, TypeScript* | [Live View](https://muhammad---shariq.vercel.app/) |
-| **📘 AI-Native Interactive Book** | Educational platform engineered strictly with AI CLI tools (zero manual intervention). | *Next.js, Docusaurus, SDD, SpecKit-Plus* | [Live View](#insert-link-here) |
-| **📊 NextGen Dashboard Integration** | Complex data visualization dashboard architected without manual intervention. | *Next.js, Tailwind CSS, SDD* | [Live View](#insert-link-here) |
-| **📸 UGC Creator Portfolio** | Highly responsive media gallery and client outreach tool built for content creators. | *Next.js, Tailwind CSS* | [Live View](#insert-link-here) |
+| **Premium Personal Portfolio** | A world-class, heavily SEO-optimized portfolio featuring dynamic glassmorphism and 100% responsiveness down to 320px. | *Next.js 15, Tailwind v4, TypeScript* | [Live View](https://muhammad---shariq.vercel.app/) |
+| **AI-Native Interactive Book** | Educational platform engineered strictly with AI CLI tools (zero manual intervention). | *Next.js, Docusaurus, SDD, SpecKit-Plus* | [Live View](https://shariq001.github.io/ai-native-book/) |
+| **NextGen Dashboard Integration** | Complex data visualization dashboard architected without manual intervention. | *Next.js, Tailwind CSS, SDD* | [Live View](https://dashboard-api-integration.vercel.app/) |
+| **UGC Creator Portfolio** | Highly responsive media gallery and client outreach tool built for content creators. | *Next.js, Tailwind CSS* | [Live View](https://ugc-creator-portfolio.vercel.app/) |
 
 <br/><hr/><br/>
 
-<h2 align="center"><b>📈 Engineering Metrics</b></h2>
+<h2 align="center"><b>Engineering Metrics</b></h2>
 
 <div align="center">
   
@@ -73,7 +76,7 @@ I specialize in building intelligent web experiences. By combining **Agentic Wor
 
 <div align="center">
   
-<h2 align="center"><b>⚡ Let's Build the Future Together</b></h2>
+<h2 align="center"><b>Let's Build the Future Together</b></h2>
 
 Are you looking to integrate Agentic AI into your workflows or need an ultra-premium web presence?  
 Let's turn your specs into fully functioning realities.
