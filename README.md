@@ -1,50 +1,86 @@
-# Muhammad Shariq - Front-end Developer & Web Designer
+<div align="center">
 
-Welcome to my GitHub profile! ***I'm Muhammad Shariq***, a passionate ***Front-end Developer***, constantly learning and growing in the field of technology.   
-`Feel free to explore my repositories and check out my work!`
+# 🌌 Muhammad Shariq
+### Bridging the gap between Responsive Frontends & Autonomous AI Pipelines
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+Engineer;Agentic+Workflow+Architect" alt="Typing SVG" /></a>
 
-## **Portfolio:**
-Check out my Personal Portfolio to learn more about my projects and achievements.
+<br/>
 
-> [Visit my portfolio](https://my-personal-portfolio-eight-delta.vercel.app/)
-
----
-
-## **Connect with Me:**
-
-> **LinkedIn:** [Muhammad Shariq](https://www.linkedin.com/in/muhammad---shariq)
-> **Instagram:** [@mu_shariq1](https://www.instagram.com/mu_shariq1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://muhammad---shariq.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad---shariq)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Q7ZKKVw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shariqfazal123@gmail.com)
 
 ---
 
-## **Other Contact Information:**
+### 🚀 About Me
 
-> **Email:** [Muhammad Shariq](mailto:shariqfazal123@gmail.com)
+**Computer Science student at HITMS** | **Innova Tech Alum**
+
+I specialize in building intelligent web experiences. By combining **Agentic Workflows**, **Spec-Driven Development (SDD)**, and ultra-premium UI engineering, I architect solutions that are not only visually breathtaking but also functionally autonomous. My focus is on creating highly engineered, glassmorphic interfaces powered by cutting-edge Next.js and Tailwind CSS frameworks, seamlessly integrated with advanced AI architectures.
+
+</div>
+
+<br/>
+
+## 🛠️ Core Tech Stack & Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Engineering
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+### 🤖 AI, Backend & Pipelines
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-00599C?style=flat-square&logo=openai&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![APIs](https://img.shields.io/badge/LinkedIn/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### ⚙️ Methodology & Tooling
+![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Dev-8A2BE2?style=flat-square&logo=readthedocs&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![SpecKit Plus](https://img.shields.io/badge/SpecKit_Plus-4CAF50?style=flat-square&logo=rocket&logoColor=white)
+
+</div>
 
 ---
 
-## ✨ **My Work:**
-Here are some of the technologies and areas I've worked with:
+## 💻 Featured Architectures
 
-> Front-end Development (HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind CSS, API)
-> 
-> Responsive Web Design
-> 
-> JavaScript & TypeScript Projects
-
----
-
-## ❤️ **Why I'm Passionate About Tech:**
-
-I believe in the transformative power of technology to improve lives and solve problems. Whether it's building scalable web applications or exploring the latest advancements in AI, I’m always eager to dive into new challenges. Every project I take on is an opportunity to learn and grow, and I look forward to contributing to impactful work.
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| **🌟 Premium Personal Portfolio** | A world-class, heavily SEO-optimized portfolio featuring dynamic glassmorphism and 100% responsiveness down to 320px. | *Next.js 15, Tailwind v4, TypeScript* | [Live Demo](https://muhammad---shariq.vercel.app/) |
+| **📘 AI-Native Interactive Book** | Educational platform engineered strictly with AI CLI tools (zero manual intervention). | *Next.js, Docusaurus, SDD, SpecKit-Plus* | Private / TBD |
+| **🤖 AI Employee (Silver)** | A secure automation agent for LinkedIn outreach and dynamic content generation. | *Python, LLMs, APIs* | Private / TBD |
+| **📊 Next-Gen Dashboard Interface** | Complex data visualization dashboard architected without manual intervention. | *Next.js, Tailwind CSS, SDD* | Private / TBD |
+| **📸 UGC Creator Portfolio** | Highly responsive media gallery and client outreach tool built for content creators. | *Next.js, Tailwind CSS* | Private / TBD |
+| **💬 General Chatbot Architectures**| Versatile ML chatbots and lightning-fast stateless API architectures built in-memory. | *Python, Panel* | Private / TBD |
 
 ---
 
-## 🌟 **Let's Build Something Amazing!**
-If you have any questions or want to collaborate on a project, feel free to reach out! I'm always open to new opportunities and connections.
+## 📈 Engineering Metrics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shariq001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariq001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+</div>
 
 ---
 
-`Thank you for visiting my profile! Keep coding and stay curious!`
+<div align="center">
+  
+### ⚡ Let's Build the Future Together
+
+Are you looking to integrate Agentic AI into your workflows or need an ultra-premium web presence?  
+Let's turn your specs into fully functioning realities.
+
+[![View My Work](https://img.shields.io/badge/Explore_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://muhammad---shariq.vercel.app/)
+[![Hire Me](https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Q7ZKKVw)
+
+</div>
