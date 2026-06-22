@@ -54,11 +54,6 @@ I specialize in building intelligent web experiences. By combining **Agentic Wor
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
 | **🌟 Premium Personal Portfolio** | A world-class, heavily SEO-optimized portfolio featuring dynamic glassmorphism and 100% responsiveness down to 320px. | *Next.js 15, Tailwind v4, TypeScript* | [Live Demo](https://muhammad---shariq.vercel.app/) |
-| **📘 AI-Native Interactive Book** | Educational platform engineered strictly with AI CLI tools (zero manual intervention). | *Next.js, Docusaurus, SDD, SpecKit-Plus* | Private / TBD |
-| **🤖 AI Employee (Silver)** | A secure automation agent for LinkedIn outreach and dynamic content generation. | *Python, LLMs, APIs* | Private / TBD |
-| **📊 Next-Gen Dashboard Interface** | Complex data visualization dashboard architected without manual intervention. | *Next.js, Tailwind CSS, SDD* | Private / TBD |
-| **📸 UGC Creator Portfolio** | Highly responsive media gallery and client outreach tool built for content creators. | *Next.js, Tailwind CSS* | Private / TBD |
-| **💬 General Chatbot Architectures**| Versatile ML chatbots and lightning-fast stateless API architectures built in-memory. | *Python, Panel* | Private / TBD |
 
 ---
 
